@@ -1,0 +1,7 @@
+## Interface: 120100
+## Title: 宠物血条百分比
+## Notes: 宠物头像血条显示生命值百分比，隐藏能量数字与受到的伤害/治疗数字（/petpct 开关、/petpct mana、/petpct hit、/petpct size 12）
+## Author: AI
+## Version: 2.1
+## SavedVariables: AIPetPercentDB
+AIHidePetNumbers.lua
